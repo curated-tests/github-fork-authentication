@@ -1,5 +1,6 @@
 {
   "env": {
-    "MY_TESTING_ENV_VAR": "@my-testing-secret"
+    "MY_TESTING_ENV_VAR": "@my-testing-secret",
+    "HAHA": "@my-testing-secret-two"
   }
 }

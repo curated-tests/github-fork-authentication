@@ -1,5 +1,5 @@
 {
   "env": {
-    "MY_TESTING_ENV_VAR": "@my-testing-secret"
+    "MY_dasadsTESTING_ENV_VAR": "@my-testing-secret"
   }
 }
